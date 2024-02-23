@@ -1,0 +1,20 @@
+.form__request {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 13px;
+  min-height: 44px;
+  background: #e3e3e3;
+  border: 2px solid #000000;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  transition: 0.3s;
+}
+.form__request:hover {
+  cursor: pointer;
+  background: #65cdf9;
+}

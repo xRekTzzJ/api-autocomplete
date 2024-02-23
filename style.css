@@ -1,0 +1,15 @@
+@import url(./normalize.css);
+@import url(./fonts/stylesheet.css);
+@import url(./blocks/body/body.css);
+@import url(./blocks/main/main.css);
+@import url(./blocks/form/form.css);
+@import url(./blocks/form/__input/form__input.css);
+@import url(./blocks/card-container/card-container.css);
+@import url(./blocks/card/card.css);
+@import url(./blocks/card/__info-container/card__info-container.css);
+@import url(./blocks/card/__delete-icon/card__delete-icon.css);
+@import url(./blocks/form/__request-container/form__request-container.css);
+@import url(./blocks/form/__request/form__request.css);
+@import url(./blocks/form/__label/form__label.css);
+@import url(./blocks/form/__label/_visible/form__label_visible.css);
+@import url(./blocks/card/__info/card__info.css);

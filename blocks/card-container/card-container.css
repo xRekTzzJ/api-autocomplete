@@ -1,0 +1,6 @@
+.card-container {
+  width: 503px;
+  margin: 0 auto 72px;
+  display: flex;
+  flex-direction: column;
+}
